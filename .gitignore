@@ -1,0 +1,4 @@
+data/output
+!data/output/ewh-example-run.png
+!data/output/ewh-example-run.tbl
+src/__pycache__
